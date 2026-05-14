@@ -11,7 +11,7 @@ OnlineRetail Dataset from Kaggle
 ---
 * Python (Pandas, Numpy, Matplotlib, Seaborn)
 
-##### Data Cleaning Process
+### Data Cleaning Process
 ---
 1. Performed data familiarization to assess the dataset structure, data types, and missing values.
 2. Handled missing data by removing or replacing null values where necessary.
